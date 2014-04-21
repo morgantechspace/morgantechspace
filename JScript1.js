@@ -1,0 +1,3 @@
+﻿function Click() {
+    alert('alert')
+}
