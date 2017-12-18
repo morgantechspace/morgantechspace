@@ -1,0 +1,4 @@
+UserPrincipalName,FirstName,LastName,DisplayName,UsageLocation,AccountSkuId
+TestUser1@contoso.com,Test,User1,Test User1,US,contoso:ENTERPRISEPREMIUM
+TestUser2@contoso.com,Test,User2,Test User2,US,contoso:ENTERPRISEPREMIUM
+TestUser3@contoso.com,Test,User3,Test User3,US,contoso:ENTERPRISEPREMIUM
